@@ -1,0 +1,4 @@
+.add_delete_search .tablediv table{
+    width: 100%;
+    overflow-x: scroll;
+}
